@@ -2,16 +2,6 @@
 
 Hello! Welcome to my Data Science portfolio. This repository showcases some of the key projects I have worked on. My passion for solving real-world problems using data has led me to undertake various projects where I applied data wrangling, machine learning, deep learning, and more to gain insights and make predictions. Below is a brief overview of my projects:
 
-## DATA SCIENCE JOB SALARIES – Personal Project – Toronto, CA – July 2023
-- **Objective**: Predict job salaries in the data science field.
-- **Key Tasks**:
-  - Built a web scraper to collect 750 real-time data science job listings from Glassdoor.
-  - Utilized NLP to create a word cloud from job descriptions.
-  - Performed EDA using pandas, matplotlib, and seaborn.
-  - Cleaned and analyzed the job listings dataset.
-  - Implemented Machine Learning techniques for salary prediction with feature engineering.
-  - Developed a Flask API to serve the random forest model for salary prediction.
-
 ## REAL ESTATE EDA AND PRICE PREDICTION – Personal Project – Toronto, CA – June 2023
 - **Objective**: Predict real estate market prices.
 - **Key Tasks**:
